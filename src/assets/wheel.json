@@ -1,0 +1,72 @@
+{
+  "Emotionwhere": [
+    {
+      "InnerEmotions": [
+        {
+          "Fearful": [
+            {
+              "InnerEmotions": {
+                "Scared": [
+                  {
+                    "InnerEmotions": ["Helpless", "Frigtened"]
+                  }
+                ],
+                "Anxious": [
+                  {
+                    "InnerEmotions": ["Overwhelemed", "Worried"]
+                  }
+                ],
+                "Insecure": [
+                  {
+                    "InnerEmotions": ["Inadequate", "Inferior"]
+                  }
+                ],
+                "Weak": [
+                  {
+                    "InnerEmotions": ["Worthless", "Insignificant"]
+                  }
+                ],
+                "Rejected": [
+                  {
+                    "InnerEmotions": ["Excluded", "Persecuted"]
+                  }
+                ],
+                "Threatend": [
+                  {
+                    "InnerEmotions": ["Nervous", "Exposed"]
+                  }
+                ]
+              }
+            }
+          ],
+          "Bad": [
+            {
+              "InnerEmotions": {
+                "Bored": [
+                  {
+                    "InnerEmotions": ["Indifferent", "Apathetic"]
+                  }
+                ],
+                "Busy": [
+                  {
+                    "InnerEmotions": ["Pressured", "Rushed"]
+                  }
+                ],
+                "Stressed": [
+                  {
+                    "InnerEmotions": ["Overwhelemed", "Out of control"]
+                  }
+                ],
+                "Tired": [
+                  {
+                    "InnerEmotions": ["Sleepy", "Unfocused"]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
